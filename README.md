@@ -10,9 +10,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
 </p>
 
-- ⚡ Fun fact:
-    - Has some normal hobbies
-    - HIMYM fan (I am sometimes Ted, sometimes Barney and sometimes Marshall)
+⚡ Fun fact:
+- Has some normal hobbies
+- HIMYM fan
 
 <!--
 **PhyoWinko/PhyoWinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
