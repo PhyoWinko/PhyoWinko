@@ -9,7 +9,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="45" height="45"/>     
-    <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/6e75c0ba-c6fc-4a10-83c4-ef41be160087" />
+    <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/37de2854-7da8-498d-b200-7448c4af22f4" />
     <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d48ccfb1-e66b-4130-983f-cf3c41afc6de" />
 </p>
 
