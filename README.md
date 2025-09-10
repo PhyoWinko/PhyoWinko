@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-** Programming Languages **
+**Programming Languages**
 
 - ⚡ Fun fact:
     - Has some normal hobbies
