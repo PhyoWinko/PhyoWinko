@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently working on Python, SQL.
 
+- ⚡ Fun fact:
+    - Has some normal hobbies
+    - HIMYM fan (I am sometimes Ted, sometimes Barney and sometimes Marshall)
+
 <!--
 **PhyoWinko/PhyoWinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
