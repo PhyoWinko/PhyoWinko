@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently working on Python, SQL.
 
+## Tech Stack
+
+** Programming Languages **
+
 - ⚡ Fun fact:
     - Has some normal hobbies
     - HIMYM fan (I am sometimes Ted, sometimes Barney and sometimes Marshall)
