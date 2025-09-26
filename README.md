@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Python, SQL.
+- 🔭 I’m currently learning Python, SQL and Web Basic.
 
 ## Tech Stack
 
