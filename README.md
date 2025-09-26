@@ -19,6 +19,10 @@
 - HIMYM fan
 - Former soccer captain at unuversity
 
+## Connect Me!
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" alt="image" src="https://github.com/user-attachments/assets/6b1b86ca-f5f6-4fe3-bff7-91f8f2620ff7" />
+</a>
 <!--
 **PhyoWinko/PhyoWinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
