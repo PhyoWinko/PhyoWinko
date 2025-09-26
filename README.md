@@ -23,9 +23,6 @@
 <a href="https://www.facebook.com/pyaephyoaung969786/">
   <img height="50" alt="image" src="https://github.com/user-attachments/assets/6b1b86ca-f5f6-4fe3-bff7-91f8f2620ff7" />
 </a>
-<a href="phyowinko123@gmail.com">
-    <img height="50" alt="image" src="https://github.com/user-attachments/assets/894740d5-3bd1-4c58-a2b4-e920f896a24c" />
-</a>
 
 <!--
 **PhyoWinko/PhyoWinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
